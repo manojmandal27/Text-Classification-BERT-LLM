@@ -5,7 +5,7 @@ Problem Statement
 Intent identification using BERT model
 
 Learning Objectives
-At the end of the mini-project, you will be able to :
+At the end of the project, you will be able to :
 
 Read the intent, questions and responses data
 Load a pre trained BERT model
